@@ -11,5 +11,5 @@ echo $customer ;
 echo '<br/>' ;
 echo $product_name ;
 echo '<br/>' ; 
-echo "Grand total" . $total ;
+echo "Grand total" . " ". $total ;
 ?>
